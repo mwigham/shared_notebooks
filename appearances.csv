@@ -1,0 +1,72 @@
+;Name;Gender;Party;Party ideology;Party role;Programme;Date;Week;Time face recognised (s);Time voice recognised (s);Total time recognised (s);Type
+0;Veldhoven-van der Meer, Stientje van;V;D66;centrism;government;1 op 1;2021-02-03;woensdag 03 februari t/m dinsdag 9 februari;0.0;55.0;55.0;audio
+1;Zanen, Jan van;M;VVD;centre-right;government;1 op 1;2021-02-10;woensdag 10 februari t/m dinsdag 16 februari;0.0;911.0;911.0;audio
+2;Dijkhoff, Klaas;M;VVD;centre-right;government;1 op 1;2021-02-11;woensdag 10 februari t/m dinsdag 16 februari;0.0;940.04;940.04;audio
+3;Jonge, Hugo de;M;CDA;centre-right;government;1 op 1;2021-02-12;woensdag 10 februari t/m dinsdag 16 februari;0.0;60.0;60.0;audio
+4;Blokhuis, Paul;M;CU;centrism;government;1 op 1;2021-02-16;woensdag 10 februari t/m dinsdag 16 februari;0.0;780.56;780.56;audio
+5;Staaij, Kees van der;M;SGP;right-wing;other;1 op 1;2021-02-16;woensdag 10 februari t/m dinsdag 16 februari;0.0;15.0;15.0;audio
+6;Krol, Henk;M;Krol;centrism;other;1 op 1;2021-02-26;woensdag 24 februari t/m dinsdag 02 maart;0.0;705.0;705.0;audio
+7;Eerdmans, Joost;M;JA21;right-wing (populist);populist opposition;1 op 1;2021-03-01;woensdag 24 februari t/m dinsdag 02 maart;0.0;843.52;843.52;audio
+8;Haan, Liane den;V;50PLUS;centrism;other;1 op 1;2021-03-03;woensdag 03 t/m dinsdag 9 maart;0.0;764.52;764.52;audio
+9;Ouwehand, Esther;V;PvdD;left-wing;leftwing opposition;1 op 1;2021-03-04;woensdag 03 t/m dinsdag 9 maart;0.0;869.52;869.52;audio
+10;Staaij, Kees van der;M;SGP;right-wing;other;1 op 1;2021-03-05;woensdag 03 t/m dinsdag 9 maart;0.0;833.0;833.0;audio
+11;Segers, Gert-Jan;M;CU;centrism;government;1 op 1;2021-03-08;woensdag 03 t/m dinsdag 9 maart;0.0;973.56;973.56;audio
+12;Jonge, Hugo de;M;CDA;centre-right;government;1 op 1;2021-03-08;woensdag 03 t/m dinsdag 9 maart;0.0;50.0;50.0;audio
+13;Klaver, Jesse;M;GL;centre-left;leftwing opposition;1 op 1;2021-03-10;woensdag 10 t/m dinsdag 16 maart;0.0;822.52;822.52;audio
+14;Ploumen, Lilianne;V;PvdA;centre-left;leftwing opposition;1 op 1;2021-03-11;woensdag 10 t/m dinsdag 16 maart;0.0;865.56;865.56;audio
+15;Marijnissen, Lilian;V;SP;left-wing;leftwing opposition;1 op 1;2021-03-15;woensdag 10 t/m dinsdag 16 maart;0.0;905.52;905.52;audio
+16;Jonge, Hugo de;M;CDA;centre-right;government;1 op 1;2021-03-15;woensdag 10 t/m dinsdag 16 maart;0.0;30.0;30.0;audio
+17;Ouwehand, Esther;V;PvdD;left-wing;leftwing opposition;Buitenhof;2021-02-07;woensdag 03 februari t/m dinsdag 9 februari;564.1999999999998;527.52;1091.7199999999998;video
+18;Marijnissen, Lilian;V;SP;left-wing;leftwing opposition;Buitenhof;2021-02-14;woensdag 10 februari t/m dinsdag 16 februari;642.72;631.0;1273.72;video
+19;Klaver, Jesse;M;GL;centre-left;leftwing opposition;Buitenhof;2021-02-14;woensdag 10 februari t/m dinsdag 16 februari;36.4;0.0;36.4;video
+20;Kaag, Sigrid;V;D66;centrism;government;Buitenhof;2021-02-14;woensdag 10 februari t/m dinsdag 16 februari;24.96;0.0;24.96;video
+21;Hoekstra, Wopke;M;CDA;centre-right;government;Buitenhof;2021-02-14;woensdag 10 februari t/m dinsdag 16 februari;5.72;0.0;5.72;video
+22;Ploumen, Lilianne;V;PvdA;centre-left;leftwing opposition;Buitenhof;2021-02-21;woensdag 17 februari t/m dinsdag 23 februari;605.8;546.0;1151.8;video
+23;Asscher, Lodewijk;M;PvdA;centre-left;leftwing opposition;Buitenhof;2021-02-21;woensdag 17 februari t/m dinsdag 23 februari;6.76;0.0;6.76;video
+24;Klaver, Jesse;M;GL;centre-left;leftwing opposition;Buitenhof;2021-02-28;woensdag 24 februari t/m dinsdag 02 maart;677.5600000000001;600.52;1278.08;video
+25;Rutte, Mark;M;VVD;centre-right;government;Buitenhof;2021-02-28;woensdag 24 februari t/m dinsdag 02 maart;19.759999999999998;0.0;19.759999999999998;video
+26;Asscher, Lodewijk;M;PvdA;centre-left;leftwing opposition;Buitenhof;2021-02-28;woensdag 24 februari t/m dinsdag 02 maart;2.6;0.0;2.6;video
+27;Kaag, Sigrid;V;D66;centrism;government;Buitenhof;2021-03-07;woensdag 03 t/m dinsdag 9 maart;747.76;651.04;1398.8;video
+28;Grapperhaus, Ferdinand;M;CDA;centre-right;government;Buitenhof;2021-03-07;woensdag 03 t/m dinsdag 9 maart;579.28;688.6;1267.88;video
+29;Engelshoven, Ingrid van;V;D66;centrism;government;Buitenhof;2021-03-07;woensdag 03 t/m dinsdag 9 maart;8.32;0.0;8.32;video
+30;Omtzigt, Pieter;M;CDA;centre-right;government;Buitenhof;2021-03-07;woensdag 03 t/m dinsdag 9 maart;0.0;35.0;35.0;video
+31;Hoekstra, Wopke;M;CDA;centre-right;government;Buitenhof;2021-03-14;woensdag 10 t/m dinsdag 16 maart;1112.7999999999997;1041.04;2153.8399999999997;video
+32;Omtzigt, Pieter;M;CDA;centre-right;government;Buitenhof;2021-03-14;woensdag 10 t/m dinsdag 16 maart;42.64;0.0;42.64;video
+33;Baudet, Thierry;M;FVD;right-wing (populist);populist opposition;Danny's wereld;2021-02-11;woensdag 10 februari t/m dinsdag 16 februari;53.040000000000006;0.0;53.040000000000006;video
+34;Paternotte, Jan;M;D66;centrism;government;De Haagse Lobby;2021-02-01;;0.0;542.04;542.04;audio
+35;Yesilgoz-Zegerius, Dilan;V;VVD;centre-right;government;De Haagse Lobby;2021-02-15;woensdag 10 februari t/m dinsdag 16 februari;0.0;60.0;60.0;audio
+36;Fenema, Esther van;V;NLBeter;unknown;other;De Haagse Lobby;2021-02-15;woensdag 10 februari t/m dinsdag 16 februari;0.0;456.52;456.52;audio
+37;Ploumen, Lilianne;V;PvdA;centre-left;leftwing opposition;De Haagse Lobby;2021-03-08;woensdag 03 t/m dinsdag 9 maart;0.0;42.0;42.0;audio
+38;Kaag, Sigrid;V;D66;centrism;government;De Haagse Lobby;2021-03-08;woensdag 03 t/m dinsdag 9 maart;0.0;35.0;35.0;audio
+39;Rutte, Mark;M;VVD;centre-right;government;De Haagse Lobby;2021-03-08;woensdag 03 t/m dinsdag 9 maart;0.0;20.0;20.0;audio
+40;Hoekstra, Wopke;M;CDA;centre-right;government;De Haagse Lobby;2021-03-15;woensdag 10 t/m dinsdag 16 maart;0.0;35.0;35.0;audio
+41;Kaag, Sigrid;V;D66;centrism;government;De Haagse Lobby;2021-03-15;woensdag 10 t/m dinsdag 16 maart;0.0;40.0;40.0;audio
+42;Schouten, Carola;V;CU;centrism;government;De Haagse Lobby;2021-03-15;woensdag 10 t/m dinsdag 16 maart;0.0;294.03999999999996;294.03999999999996;audio
+43;Keijzer, Mona;V;CDA;centre-right;government;De Haagse Lobby;2021-03-15;woensdag 10 t/m dinsdag 16 maart;0.0;491.55999999999995;491.55999999999995;audio
+44;Wout, Bas van 't;M;VVD;centre-right;government;De Hofbar;2021-02-16;woensdag 10 februari t/m dinsdag 16 februari;132.07999999999998;0.0;132.07999999999998;video
+45;Veldhoven-van der Meer, Stientje van;V;D66;centrism;government;De Hofbar;2021-02-23;woensdag 17 februari t/m dinsdag 23 februari;0.0;150.0;150.0;video
+46;Slob, Arie;M;CU;centrism;government;De Hofbar;2021-03-02;woensdag 24 februari t/m dinsdag 02 maart;118.03999999999999;130.0;248.04;video
+47;Visser, Barbara;V;VVD;centre-right;government;De Hofbar;2021-03-09;woensdag 03 t/m dinsdag 9 maart;125.83999999999999;0.0;125.83999999999999;video
+48;Nieuwenhuizen, Cora van;V;VVD;centre-right;government;De Hofbar;2021-03-09;woensdag 03 t/m dinsdag 9 maart;53.559999999999995;120.0;173.56;video
+49;Bijleveld, Ank;V;CDA;centre-right;government;De Hofbar;2021-03-09;woensdag 03 t/m dinsdag 9 maart;2.6;0.0;2.6;video
+50;Haersma Buma, Sybrand van;M;CDA;centre-right;government;De Hofbar;2021-03-09;woensdag 03 t/m dinsdag 9 maart;1.56;0.0;1.56;video
+51;Harbers, Mark;M;VVD;centre-right;government;De Hofbar;2021-03-16;woensdag 10 t/m dinsdag 16 maart;35.36000000000001;210.0;245.36;video
+52;Dijkhoff, Klaas;M;VVD;centre-right;government;De Hofbar;2021-03-16;woensdag 10 t/m dinsdag 16 maart;8.84;10.0;18.84;video
+53;Rutte, Mark;M;VVD;centre-right;government;De Hofbar;2021-03-16;woensdag 10 t/m dinsdag 16 maart;6.24;0.0;6.24;video
+54;Staaij, Kees van der;M;SGP;right-wing;other;De Hofbar;2021-03-16;woensdag 10 t/m dinsdag 16 maart;4.16;0.0;4.16;video
+55;Klaver, Jesse;M;GL;centre-left;leftwing opposition;De Hofbar;2021-03-16;woensdag 10 t/m dinsdag 16 maart;3.64;0.0;3.64;video
+56;Thijssen, Joris;M;PvdA;centre-left;leftwing opposition;De Hofbar;2021-03-16;woensdag 10 t/m dinsdag 16 maart;0.0;187.04;187.04;video
+57;Meenen, Paul van;M;D66;centrism;government;De nieuwe maan;2021-02-19;woensdag 17 februari t/m dinsdag 23 februari;218.4;247.52;465.92;video
+58;Baudet, Thierry;M;FVD;right-wing (populist);populist opposition;De nieuwe maan;2021-02-19;woensdag 17 februari t/m dinsdag 23 februari;124.27999999999999;0.0;124.27999999999999;video
+59;Rutte, Mark;M;VVD;centre-right;government;De nieuwe maan;2021-02-19;woensdag 17 februari t/m dinsdag 23 februari;131.56;0.0;131.56;video
+60;Wilders, Geert;M;PVV;right-wing (populist);populist opposition;De nieuwe maan;2021-02-19;woensdag 17 februari t/m dinsdag 23 februari;31.2;0.0;31.2;video
+61;Eerdmans, Joost;M;JA21;right-wing (populist);populist opposition;De nieuwe maan;2021-02-19;woensdag 17 februari t/m dinsdag 23 februari;8.32;0.0;8.32;video
+62;Haga, Wybren van;M;FVD;right-wing (populist);populist opposition;De nieuwe maan;2021-02-26;woensdag 24 februari t/m dinsdag 02 maart;344.2400000000002;0.0;344.2400000000002;video
+63;Staaij, Kees van der;M;SGP;right-wing;other;De nieuwe maan;2021-02-26;woensdag 24 februari t/m dinsdag 02 maart;101.92;30.0;131.92000000000002;video
+64;Rutte, Mark;M;VVD;centre-right;government;De nieuwe maan;2021-02-26;woensdag 24 februari t/m dinsdag 02 maart;44.72;0.0;44.72;video
+65;Simons, Sylvana;V;BIJ1;left-wing;other;De nieuwe maan;2021-02-26;woensdag 24 februari t/m dinsdag 02 maart;0.0;360.04;360.04;video
+66;Mos, Richard de;M;CODE ORANJE;centrism;other;De nieuwe maan;2021-03-05;woensdag 03 t/m dinsdag 9 maart;263.12000000000006;0.0;263.12000000000006;video
+67;Aboutaleb, Ahmed;M;PvdA;centre-left;leftwing opposition;De nieuwe maan;2021-03-05;woensdag 03 t/m dinsdag 9 maart;2.08;0.0;2.08;video
+68;Wilders, Geert;M;PVV;right-wing (populist);populist opposition;De nieuwe maan;2021-03-05;woensdag 03 t/m dinsdag 9 maart;0.52;0.0;0.52;video
+69;Nanninga, Annabel;V;Fractie-Nanninga;right-wing (populist);other;De nieuwe maan;2021-03-12;woensdag 10 t/m dinsdag 16 maart;432.1200000000001;480.56;912.6800000000001;video
+70;Aboutaleb, Ahmed;M;PvdA;centre-left;leftwing opposition;De nieuwe maan;2021-03-12;woensdag 10 t/m dinsdag 16 maart;37.440000000000005;45.0;82.44;video
