@@ -1,2 +1,2 @@
 rdflib==4.2.2
-chart-studio = "*"
+chart-studio=="*"
