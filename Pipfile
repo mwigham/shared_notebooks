@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+rdflib = "==4.2.2"
+chart-studio = "==1.1.0"
+numpy = "==1.22.0"
+pandas = "==1.0.1"
+pillow = "==9.0.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
